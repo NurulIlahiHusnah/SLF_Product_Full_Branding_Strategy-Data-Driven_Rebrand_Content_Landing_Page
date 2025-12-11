@@ -1,0 +1,2 @@
+# SLF_Product_Full_Branding_Strategy-Data-Driven_Rebrand_Content_Landing_Page
+**Full Branding Strategy for SLF Product — Analysis, Rebrand, Content, and Landing Page**  \n Project end-to-end yang mencakup analisis produk SLF, penyusunan strategi rebranding berbasis insight, pembuatan konten sesuai arah brand baru, serta pengembangan landing page yang selaras dengan strategi tersebut. Proyek ini menunjukkan kemampuan hybrid dalam data-informed branding, creative content development, dan web implementation.
